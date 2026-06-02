@@ -1,0 +1,134 @@
+*{
+    padding:0;
+    margin:0;
+}
+.logo{
+    width:90px;
+    height:90px;
+    background-color:#0a3d91;
+    border-radius:10px;
+    text-align:center;
+    color:white;
+    padding-top:10px;
+    margin:10px;
+}
+h1{
+    background-color:rgb(7, 2, 65);
+    color:white;
+    text-align: center;
+    padding:30px;
+    display:block
+
+}
+ul{
+    background-color:rgb(7,2,65);
+    width:250px;
+    color:white;
+    height:100vh;
+    display:inline-block;
+    vertical-align:top;
+}
+li{
+    margin-left:30px;
+    font-size:20px;
+    margin-top:60px;
+    list-style:none;
+    padding:15px;
+}
+li:hover{
+    cursor:pointer;
+    background-color:rgba(0, 140, 255, 0.999)
+}
+.search{
+    display:inline-block;
+    vertical-align:top;
+    margin:20px;
+    margin-left:200px;
+}
+.search button{
+    background-color:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:8px;
+    cursor:pointer;
+}
+input{ 
+    width:700px;
+    padding:10px;
+
+}
+.Add{
+    margin:20px;
+}
+.main{
+    display:inline-block;
+    vertical-align:top;
+    width:80%;
+}
+table{
+    margin-left:80px;
+}
+.border{
+    border-width:5px;
+    border-color:gray;
+    border-style:groove;
+}
+.alter{
+    width:300px;
+}
+td{
+    padding-left:20px;
+}
+.with{
+    width:30px;
+}
+.color1{
+    background-color:green;
+    color:white;
+    height:30px;
+    display:inline-block;
+    cursor:pointer;
+}
+.color2{
+    display:inline-block;
+    margin-left:30px;
+    width:70px;
+    height: 30px;
+    background-color:red;
+    color:white;
+    cursor:pointer;
+
+}
+th{
+    width:200px;
+    background-color:rgb(7, 2, 65);
+    color:white;
+}
+table{
+    margin-top:30px;
+}
+.record{
+    border-width:5px;
+    border-color:grey;
+    border-style:groove;
+    margin-top:20px;
+}
+.col1{
+    background-color:blue;
+    color:white;
+    padding:5px;
+    cursor:pointer;
+}
+.col2{
+    background-color:red;
+    color:white;
+    padding:5px;
+    cursor:pointer;
+}
+.about{
+    background-color:rgb(7, 2, 65);
+    text-align:center;
+    color:white
+
+}
