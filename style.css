@@ -12,15 +12,19 @@
     padding-top:10px;
     margin:10px;
 }
-h1{
+.sub{
     background-color:rgb(7, 2, 65);
     color:white;
     text-align: center;
-    padding:30px;
-    display:block
 
 }
-ul{
+ul,li,h2{
+    display:inline-block;
+}
+.bar{
+    margin-left:60%
+}
+.bar2{
     background-color:rgb(7,2,65);
     width:250px;
     color:white;
